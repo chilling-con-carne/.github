@@ -1,15 +1,16 @@
-# 🌶 CHILLING CON CARNE 🌶
+# CHILLING CON CARNE 🌶
 
-Chilling Con Carne is a web agency created in 2022, based in Strasbourg, France
+We're a web agency based in Strasbourg, France! Check out our [website](chillingconcarne.co) for more information!
 
-## Current team members 👨‍💻
+## Current team members 👨‍💻
 
-| Name | Position | Profile | 
-|------|----------|---------|
+
+|Name|Position|Profile|
+|----|--------|-------|
 |Vincent|CEO|[TisaneFruitRouge](https://github.com/TisaneFruitRouge)|
 |Germain|Fullstack dev|[kiLLuua](https://github.com/kiLLuua)|
 |Léandre|Backend dev & Devops|[SanGoruden](https://github.com/SanGoruden)|
 
-## Want to work with us ?
+## Want to work with us ?
 
-We'd lve to hear about your project, send us an email at contact@chllingconcarne.co 💌
+We'd love to hear about your project, send us an email at contact@chllingconcarne.co 💌
