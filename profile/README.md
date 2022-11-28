@@ -1,9 +1,8 @@
 # CHILLING CON CARNE 🌶
 
-We're a web agency and game development company based in Strasbourg, France! Check out our [web agency's website](chillingconcarne.co) for more information!
+We're a web agency and game development company based in Strasbourg, France! Check out our [web agency's website](https://www.chillingconcarne.co) for more information!
 
 ## Current team members 👨‍💻
-
 
 |Name|Position|Profile|
 |----|--------|-------|
